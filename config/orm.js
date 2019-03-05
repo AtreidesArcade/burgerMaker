@@ -1,4 +1,4 @@
-// Import the MySQL connection object
+d// Import the MySQL connection object
 var connection = require ('./connection.js');
 
 // Helper function for generating MySQL syntax
