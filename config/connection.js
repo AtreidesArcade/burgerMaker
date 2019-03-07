@@ -5,9 +5,9 @@ require('dotenv/config');
 // Create the MySQL connection object
 var connection;
 
-if (process.env.JAWSDB_URL) {
-	// DB is JawsDB on Heroku
-	connection = mysql.createConnection(process.env.JAWSDB_URL);
+if (process.env.JAWSDB_CRIMSON_URL) {
+	// DB is JAWSDB_CRIMSON on Heroku
+	connection = mysql.createConnection(process.env.JAWSDB_CRIMSON_URL);
 } else {
 	// DB is local on localhost
 	connection = mysql.createConnection({
