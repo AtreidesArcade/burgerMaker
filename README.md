@@ -9,7 +9,7 @@ The user may enter any burger name to add it to the menu. This also adds the new
 
 ## Demo
 
-The demo of the burger eating application can be found [here](insert HEROKU app link)
+The demo of the burger eating application can be found [here](https://lukeburger.herokuapp.com/)
 
 ## Installation
 
@@ -28,4 +28,4 @@ Finally, run the node server locally.
 	
 Now, open the local application on port 3000 at the URL: `http://localhost:3000/`.
 
-**Enjoy and have a burger!**
+**have a burger!**
