@@ -21,7 +21,6 @@ h1 {
 }
 
 .burgerAvailable {
-    font-family: 'Crafty Girls', cursive;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
@@ -38,7 +37,6 @@ h1 {
 }
 
 .burgerEaten {
-    font-family: 'Crafty Girls', cursive;
     font-weight: normal;
     font-size: 20px;
     text-align: center;
