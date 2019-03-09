@@ -54,7 +54,7 @@ h2 {
 }
 
 .formContainer {
-    background-color: orange;
+    background-color: white;
 }
 
 .addBurgerButton {
@@ -68,16 +68,16 @@ h2 {
     margin: 0px;
     margin: 0;
     padding: 10px;
-    background-color: #FFC04C;
+    background-color: green;
     border: none;
 }
 
 .addBurgerButton:active {
-    background-color: #FFC04C;
+    background-color: green;
 }
 
 .burgerFooter {
-    background-color: #FFC04C;
+    background-color: green;
     padding: 20px 0px;
     padding: 20px 0;
 }
